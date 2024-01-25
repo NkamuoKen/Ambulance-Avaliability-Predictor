@@ -1,7 +1,5 @@
 # Ambulance Availability Predictor
 
-![Project Image](link_to_your_image)
-
 ## Description
 
 The Ambulance Availability Predictor is a project based on medical facilities in Nigeria, the dataset used in this project is gotten from the website of a Nigerian Healthcare Agency. This project aims to predict how available ambulance services are in different in Nigeria across it's states.
